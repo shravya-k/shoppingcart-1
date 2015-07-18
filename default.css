@@ -1,0 +1,33 @@
+body
+{
+	text-align: center;
+}
+#kart
+{
+	float: left;
+	padding-top:200px;
+}
+#image
+{
+	float: right;
+	
+	
+}
+#login
+{
+	position:absolute;
+	top: 30px;
+	right: 60px;
+}
+#name
+{
+color:#FFDB58;
+padding-top: 200px;
+}
+#home
+
+{
+position:absolute;
+	top: 30px;
+	right: 150px;
+}

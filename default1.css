@@ -1,0 +1,152 @@
+body
+{
+	border: 1px transparent solid;
+}
+#topboxS
+{	
+	border: 1px #96b9ff solid;
+	background-image: url("data:image/jpeg;base64,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");
+	background-repeat: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiwV6rkYejPIMs_hNSvSHli5YhGFHxE9mpetuez_sObJ5GjMMdw");
+	text-align: center;
+}
+
+.leftdivWrapperS
+{
+	border: 1px red transparent;
+	float: left;
+	width: 200px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+	float: top;
+}
+
+#leftboxS
+{
+	
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+	padding: 3px;
+	
+}
+
+#leftbottomS
+{
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	padding: 3px;
+	
+}
+
+#leftboxS li
+{
+	margin-bottom: 15px;
+}
+#rightboxS
+{
+	border: 1px transparent solid;
+	margin-left: 215px;
+	text-align: center;
+	
+}
+#bottomboxS
+{
+	border: 1px #96b9ff solid;
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVVHsh1-coEPA7jQdxsK70dxQC_8MDlDw0WlkAJUL45GwPYSEOaw");
+	text-align: center;
+	padding-top: 15px; 
+	padding-bottom: 15px; 
+}
+#boxLinks
+{
+	position: absolute;
+	top: 15px;
+	right: 60px;
+	color: purple; 
+}
+#contentS
+{
+	border: 1px transparent solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: auto;
+}
+#imageS
+{
+	border: 2px transparent solid;
+	width:50px;
+	position: absolute;
+	top:30px;
+	left:30px;
+}
+.itembrd
+{
+	border: 1px grey solid;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	height: 350px;
+	width: 175px;
+	padding: 10px 10px 10px 10px;
+	overflow: visible;
+	
+}
+.ProImgBrd
+{
+	height: 200px;
+}
+#middleboxL
+{
+	border: 1px grey solid;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxR
+{
+	border: 1px grey solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxFP
+{
+	border: 1px grey solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 125px;
+	padding-bottom: 125px;
+}
+#password
+{
+	border: 1px grey solid;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
